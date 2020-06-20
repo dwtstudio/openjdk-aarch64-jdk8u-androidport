@@ -1,3 +1,19 @@
+
+OpenJDK 8 Android AArch64
+===================
+
+This project initially provided OpenJDK 8 Android AArch64 for MCinaBox project.
+The source code of June 20 can be compiled normally.
+
+To avoid compilation errors, several modules are currently commented out of the cmake script.
+To avoid compilation errors, some functions are modified or removed.
+
+The project is still in the testing stage.
+
+As I (the developer) will take part in the college entrance examination, the relevant documents will not be completed until the middle of July.
+
+
+=================== Original ===================
 README:
   This file should be located at the top of the OpenJDK Mercurial root
   repository. A full OpenJDK repository set (forest) should also include
